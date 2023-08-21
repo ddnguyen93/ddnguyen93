@@ -1,5 +1,3 @@
-# davidnguyen
-
 ## About Me
 In 2016, I graduated from McMaster University with a civil engineering degree and began a career in the telecommunications industry. However, after several years in this field, I came to the realization this is not the lifelong path I envisioned. Feeling a bit lost and unsure about which direction
 to take my career, I took my friend's advice and picked up programming. And this was the beginning of my journey to become a software developer. I took the leap of faith and quit my engineering job to learn programming full-time on my own. The journey was hard and long but within 16 months I was able to land my first full stack developer gig.
